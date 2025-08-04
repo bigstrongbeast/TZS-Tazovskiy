@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Export>
+
+  <!--Exported by Autodesk Inventor Version 28.2 Production Candidate-->
+
+  <!--The schema of this file is subject to change without notice and is not guaranteed to remain the same from one release to the next.-->
+
+  <Colors Version="19">
+    <Style Ambient="0.7450000048 0.7369999886 0.7289999723 1" BumpMapAmount="0.3" BumpMapImageFile="" BumpMapImagePath="0" BumpMapRotation="0" BumpMapScale="1" CutoutImageFile="" CutoutImagePath="0" CutoutReverted="0" CutoutRotation="0" CutoutScale="1" Diffuse="0.7450000048 0.7369999886 0.7289999723 1" EditFlag="0" Emissive="0 0 0 1" Identifier="Metal-045" InternalName="1:Semi-Polished&#xA;" IsMasked="0" LocalUIName="Semi-Polished" Mask="0 0 0 0" Opacity="100" ProteinGenericDiffuse="0.7450000048 0.7369999886 0.7289999723 1" ProteinGenericDiffuseImageFade="1" ProteinGenericGlossiness="0.4" ProteinGenericIsMetal="1" ProteinGenericReflectivityAt0Deg="0.75" ProteinGenericReflectivityAt90Deg="1" ProteinGenericSelfIllumColorTemperature="0" ProteinGenericSelfIllumLuminance="0" ProteinGenericTranslucency="0" ProteinGenericTransparency="0" ProteinGenericrefraction="1.4" ProteinLibraryId="AFEFC330-5E61-4E24-814F-AE810148B79D" ProteinMaterialHidden="1" ProteinMaterialId="Metal-045" ProteinMaterialRotation="0" ProteinMaterialScale="1" ProteinTintColor="-1 -1 -1 -1" ReflectionImageFile="" ReflectionImagePath="0" Refraction="1.4" Rotation="0" Scale="1" Shininess="65" ShowBackFaces="0" Specular="0.7450000048 0.7369999886 0.7289999723 1" TextureFile="" TexturePath="0" TextureWrapModeU="0" TextureWrapModeV="0">
+      <AdvancedUIDefinition Value="Mats/Metal/metalAdvancedUI.xml"/>
+      <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+      <BaseSchema Value="MetalSchema"/>
+      <ExchangeGUID Name="ExchangeGUID" Value=""/>
+      <Hidden Value="0"/>
+      <ImplementationGeneric Value="Mats/Metal/Generic.xml"/>
+      <ImplementationMentalRay Value="Mats/Metal/MentalImage.xml"/>
+      <ImplementationOGS Value="Mats/Metal/OGS.xml"/>
+      <ImplementationPreview Value="Mats/Metal/PreviewColor.xml"/>
+      <SchemaVersion Value="5"/>
+      <UIDefinition Value="Mats/Metal/metalUI.xml"/>
+      <UIName Value="Metal-045"/>
+      <VersionGUID Value="Metal-045"/>
+      <assettype Name="assettype" Value="materialappearance"/>
+      <break_def_map Name="Break Def Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_Break_pattern.jpg"/>
+      <brush_def_map Name="Brush Def Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_Brush_pattern.jpg"/>
+      <bump_checker_map Name="Bump Checker Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_CheckerPlate_pattern.jpg"/>
+      <bump_diamond_map Name="Bump Diamond Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_DiamondPlate_pattern.jpg"/>
+      <category Value="Metal/Steel"/>
+      <common_Shared_Asset Name="Sharing" Value="0"/>
+      <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+      <common_Tint_color_colorspace Name="Color space" Value="2"/>
+      <common_Tint_toggle Name="Tint" Value="0"/>
+      <description Value="Metal."/>
+      <keyword Value="steel"/>
+      <localname Value="Metal"/>
+      <localtype Value="Appearance"/>
+      <metal_ao_details Name="Use Color From Other Materials" Value="0"/>
+      <metal_ao_distance Name="Max Distance" Value="4"/>
+      <metal_ao_on Name="Ambient Occlusion" Value="0"/>
+      <metal_ao_samples Name="Samples" Value="16"/>
+      <metal_color Name="Color" Value="0.6000000238 0.6000000238 0.6000000238 1"/>
+      <metal_color_by_object Name="Color By Object" Value="0"/>
+      <metal_color_colorspace Name="Color space" Value="2"/>
+      <metal_finish Name="Finish" Value="1"/>
+      <metal_patina Name="Patina" Value="0"/>
+      <metal_pattern Name="Relief Pattern" Value="0"/>
+      <metal_pattern_height Name="Amount" Value="0.3"/>
+      <metal_pattern_scale Name="Scale" Value="1"/>
+      <metal_pattern_shader Name="Image">
+        <metal_pattern_shader Identifier="Metal-045_metal_pattern_shader" LocalUIName="Metal-045_metal_pattern_shader">
+          <AdvancedUIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapAdvancedUI.xml"/>
+          <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+          <BaseSchema Value="UnifiedBitmapSchema"/>
+          <ExchangeGUID Name="ExchangeGUID" Value=""/>
+          <Hidden Value="0"/>
+          <ImplementationGeneric Value=""/>
+          <ImplementationMentalRay Value="Maps/UnifiedBitmap/MentalImage.xml"/>
+          <ImplementationOGS Value="Maps/UnifiedBitmap/OGS.xml"/>
+          <ImplementationPreview Value=""/>
+          <SchemaVersion Value="5"/>
+          <UIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapUI.xml"/>
+          <UIName Value="Metal-045_metal_pattern_shader"/>
+          <VersionGUID Value="Metal-045_metal_pattern_shader"/>
+          <assettype Name="assettype" Value="texture"/>
+          <category Value=""/>
+          <common_Shared_Asset Name="Sharing" Value="0"/>
+          <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+          <common_Tint_color_colorspace Name="Color space" Value="2"/>
+          <common_Tint_toggle Name="Tint" Value="0"/>
+          <description Value="Unified Bitmap."/>
+          <keyword Value="maps"/>
+          <localname Value="Bitmap Texture"/>
+          <localtype Value="Texture"/>
+          <revision Value="1"/>
+          <swatch Value=""/>
+          <texture_LinkTextureTransforms Name="Link Transforms" Value="0"/>
+          <texture_MapChannel Name="Map Channel" Value="1"/>
+          <texture_MapChannel_ID_Advanced Name="Map Channel ID" Value="1"/>
+          <texture_MapChannel_UVWSource_Advanced Name="UVW Source" Value="0"/>
+          <texture_OffsetLock Name="Offset Lock" Value="0"/>
+          <texture_RealWorldOffsetX Name="Offset X" Value="0"/>
+          <texture_RealWorldOffsetY Name="Offset Y" Value="0"/>
+          <texture_RealWorldScaleX Name="Size X" Value="12"/>
+          <texture_RealWorldScaleY Name="Size Y" Value="12"/>
+          <texture_ScaleLock Name="Scale Lock" Value="1"/>
+          <texture_UOffset Name="U Offset" Value="0"/>
+          <texture_URepeat Name="U Repeat" Value="1"/>
+          <texture_UScale Name="U Scale" Value="1"/>
+          <texture_UVScale Name="UV Scale" Value="1"/>
+          <texture_VOffset Name="V Offset" Value="0"/>
+          <texture_VRepeat Name="V Repeat" Value="1"/>
+          <texture_VScale Name="V Scale" Value="1"/>
+          <texture_WAngle Name="Angle" Value="0"/>
+          <thumbnail Value="Maps/UnifiedBitmap/UnifiedBitmap.png"/>
+          <unifiedbitmap_Bitmap Name="Source" Value=""/>
+          <unifiedbitmap_Bitmap_urn Name="URN" Value=""/>
+          <unifiedbitmap_Blur Name="Blur" Value="0.01"/>
+          <unifiedbitmap_Blur_Offset Name="Blur Offset" Value="0"/>
+          <unifiedbitmap_Filtering Name="Filtering" Value="0"/>
+          <unifiedbitmap_Invert Name="Invert Image" Value="0"/>
+          <unifiedbitmap_RGBAmount Name="Brightness" Value="1"/>
+          <version Value="4"/>
+        </metal_pattern_shader>
+      </metal_pattern_shader>
+      <metal_perforations Name="Cutouts" Value="0"/>
+      <metal_perforations_center Name="Center Spacing" Value="0.6875"/>
+      <metal_perforations_shader Name="Image">
+        <metal_perforations_shader Identifier="Metal-045_metal_perforations_shader" LocalUIName="Metal-045_metal_perforations_shader">
+          <AdvancedUIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapAdvancedUI.xml"/>
+          <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+          <BaseSchema Value="UnifiedBitmapSchema"/>
+          <ExchangeGUID Name="ExchangeGUID" Value=""/>
+          <Hidden Value="0"/>
+          <ImplementationGeneric Value=""/>
+          <ImplementationMentalRay Value="Maps/UnifiedBitmap/MentalImage.xml"/>
+          <ImplementationOGS Value="Maps/UnifiedBitmap/OGS.xml"/>
+          <ImplementationPreview Value=""/>
+          <SchemaVersion Value="5"/>
+          <UIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapUI.xml"/>
+          <UIName Value="Metal-045_metal_perforations_shader"/>
+          <VersionGUID Value="Metal-045_metal_perforations_shader"/>
+          <assettype Name="assettype" Value="texture"/>
+          <category Value=""/>
+          <common_Shared_Asset Name="Sharing" Value="0"/>
+          <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+          <common_Tint_color_colorspace Name="Color space" Value="2"/>
+          <common_Tint_toggle Name="Tint" Value="0"/>
+          <description Value="Unified Bitmap."/>
+          <keyword Value="maps"/>
+          <localname Value="Bitmap Texture"/>
+          <localtype Value="Texture"/>
+          <revision Value="1"/>
+          <swatch Value=""/>
+          <texture_LinkTextureTransforms Name="Link Transforms" Value="0"/>
+          <texture_MapChannel Name="Map Channel" Value="1"/>
+          <texture_MapChannel_ID_Advanced Name="Map Channel ID" Value="1"/>
+          <texture_MapChannel_UVWSource_Advanced Name="UVW Source" Value="0"/>
+          <texture_OffsetLock Name="Offset Lock" Value="0"/>
+          <texture_RealWorldOffsetX Name="Offset X" Value="0"/>
+          <texture_RealWorldOffsetY Name="Offset Y" Value="0"/>
+          <texture_RealWorldScaleX Name="Size X" Value="12"/>
+          <texture_RealWorldScaleY Name="Size Y" Value="12"/>
+          <texture_ScaleLock Name="Scale Lock" Value="1"/>
+          <texture_UOffset Name="U Offset" Value="0"/>
+          <texture_URepeat Name="U Repeat" Value="1"/>
+          <texture_UScale Name="U Scale" Value="1"/>
+          <texture_UVScale Name="UV Scale" Value="1"/>
+          <texture_VOffset Name="V Offset" Value="0"/>
+          <texture_VRepeat Name="V Repeat" Value="1"/>
+          <texture_VScale Name="V Scale" Value="1"/>
+          <texture_WAngle Name="Angle" Value="0"/>
+          <thumbnail Value="Maps/UnifiedBitmap/UnifiedBitmap.png"/>
+          <unifiedbitmap_Bitmap Name="Source" Value=""/>
+          <unifiedbitmap_Bitmap_urn Name="URN" Value=""/>
+          <unifiedbitmap_Blur Name="Blur" Value="0.01"/>
+          <unifiedbitmap_Blur_Offset Name="Blur Offset" Value="0"/>
+          <unifiedbitmap_Filtering Name="Filtering" Value="0"/>
+          <unifiedbitmap_Invert Name="Invert Image" Value="0"/>
+          <unifiedbitmap_RGBAmount Name="Brightness" Value="1"/>
+          <version Value="4"/>
+        </metal_perforations_shader>
+      </metal_perforations_shader>
+      <metal_perforations_size Name="Size" Value="0.5"/>
+      <metal_perforations_space Name="Perforations Space" Value="0.2"/>
+      <metal_refl_depth Name="Reflection Max Trace Depth" Value="0"/>
+      <metal_roundcorners_allow_different_materials Name="Blend with Other Materials" Value="0"/>
+      <metal_roundcorners_on Name="Round Corners" Value="0"/>
+      <metal_roundcorners_radius Name="Source" Value="0.25"/>
+      <metal_type Name="Type" Value="6"/>
+      <mode Name="Mode" Value="4"/>
+      <reflection_glossy_samples Name="Reflection Glossy Samples" Value="32"/>
+      <revision Value="1"/>
+      <swatch Value="Swatch-Sphere2"/>
+      <thumbnail Value="Mats/Metal/Presets/t_Metal-045.png"/>
+      <version Value="4"/>
+      <Name Category="Default" Description="Metal." Language="1033">Semi-Polished</Name>
+    </Style>
+  </Colors>
+
+  <Materials Version="6">
+    <Style Density="8" EditFlag="0" ExternalMaterialId="2:MATERIAL:MI_InventorSustainability:46EF4DD7-2D17-4D2C-B5A0-BD890EBB0F27:37746F5C-8216-4078-954A-0573E8ED82E4:0" Identifier="MaterialInv_024" InternalName="1:Stainless Steel&#xA;" LinearExpansion="10.4" LocalUIName="Stainless Steel" PoissonsRatio="0.3" ProteinLibraryId="AFEFC330-5E61-4E24-814F-AE810148B79D" ProteinMaterialId="MaterialInv_024" SpecificHeat="0.477" ThermalConductivity="16.2" UltimateTensileStrength="540" WeldmentMaterial="0" YieldStrength="250" YoungsModulus="193">
+      <AdvancedUIDefinition Value=""/>
+      <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+      <BaseSchema Value="PhysMatSchema"/>
+      <ExchangeGUID Name="ExchangeGUID" Value=""/>
+      <Hidden Value="0"/>
+      <SchemaVersion Value="5"/>
+      <UIDefinition Value="PhysicalMat/PhysMatUI.xml"/>
+      <UIName Value="MaterialInv_024"/>
+      <VersionGUID Value="MaterialInv_024"/>
+      <assettype Name="assettype" Value="physicalmaterial"/>
+      <category Value="Metal"/>
+      <description Value="Stainless Steel 18/8"/>
+      <keyword Value="Stainless Steel"/>
+      <localname Value="Physical Material"/>
+      <localtype Value="Material"/>
+      <physmat_Comments Name="Comments" Value=""/>
+      <physmat_Cost Name="Cost" Value=""/>
+      <physmat_Keynote Name="Keynote" Value=""/>
+      <physmat_Keywords Name="Keywords" Value=""/>
+      <physmat_Label Name="Label" Value=""/>
+      <physmat_Manufacturer Name="Manufacturer" Value=""/>
+      <physmat_Mark Name="Mark" Value=""/>
+      <physmat_Model Name="Model" Value=""/>
+      <physmat_Type Name="Type" Value="1"/>
+      <physmat_URL Name="URL" Value=""/>
+      <physmat_aspects Name="Physical Aspects">
+        <physmat_aspects Identifier="Metal-045" LocalUIName="Semi-Polished">
+          <AdvancedUIDefinition Value="Mats/Metal/metalAdvancedUI.xml"/>
+          <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+          <BaseSchema Value="MetalSchema"/>
+          <ExchangeGUID Name="ExchangeGUID" Value=""/>
+          <Hidden Value="0"/>
+          <ImplementationGeneric Value="Mats/Metal/Generic.xml"/>
+          <ImplementationMentalRay Value="Mats/Metal/MentalImage.xml"/>
+          <ImplementationOGS Value="Mats/Metal/OGS.xml"/>
+          <ImplementationPreview Value="Mats/Metal/PreviewColor.xml"/>
+          <SchemaVersion Value="5"/>
+          <UIDefinition Value="Mats/Metal/metalUI.xml"/>
+          <UIName Value="Metal-045"/>
+          <VersionGUID Value="Metal-045"/>
+          <assettype Name="assettype" Value="materialappearance"/>
+          <break_def_map Name="Break Def Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_Break_pattern.jpg"/>
+          <brush_def_map Name="Brush Def Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_Brush_pattern.jpg"/>
+          <bump_checker_map Name="Bump Checker Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_CheckerPlate_pattern.jpg"/>
+          <bump_diamond_map Name="Bump Diamond Map" Value="Mats/Metal/external.dependency/Simple_Metal_Mtl_DiamondPlate_pattern.jpg"/>
+          <category Value="Metal/Steel"/>
+          <common_Shared_Asset Name="Sharing" Value="0"/>
+          <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+          <common_Tint_color_colorspace Name="Color space" Value="2"/>
+          <common_Tint_toggle Name="Tint" Value="0"/>
+          <description Value="Metal."/>
+          <keyword Value="steel"/>
+          <localname Value="Metal"/>
+          <localtype Value="Appearance"/>
+          <metal_ao_details Name="Use Color From Other Materials" Value="0"/>
+          <metal_ao_distance Name="Max Distance" Value="4"/>
+          <metal_ao_on Name="Ambient Occlusion" Value="0"/>
+          <metal_ao_samples Name="Samples" Value="16"/>
+          <metal_color Name="Color" Value="0.6000000238 0.6000000238 0.6000000238 1"/>
+          <metal_color_by_object Name="Color By Object" Value="0"/>
+          <metal_color_colorspace Name="Color space" Value="2"/>
+          <metal_finish Name="Finish" Value="1"/>
+          <metal_patina Name="Patina" Value="0"/>
+          <metal_pattern Name="Relief Pattern" Value="0"/>
+          <metal_pattern_height Name="Amount" Value="0.3"/>
+          <metal_pattern_scale Name="Scale" Value="1"/>
+          <metal_pattern_shader Name="Image">
+            <metal_pattern_shader Identifier="Metal-045_metal_pattern_shader" LocalUIName="Metal-045_metal_pattern_shader">
+              <AdvancedUIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapAdvancedUI.xml"/>
+              <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+              <BaseSchema Value="UnifiedBitmapSchema"/>
+              <ExchangeGUID Name="ExchangeGUID" Value=""/>
+              <Hidden Value="0"/>
+              <ImplementationGeneric Value=""/>
+              <ImplementationMentalRay Value="Maps/UnifiedBitmap/MentalImage.xml"/>
+              <ImplementationOGS Value="Maps/UnifiedBitmap/OGS.xml"/>
+              <ImplementationPreview Value=""/>
+              <SchemaVersion Value="5"/>
+              <UIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapUI.xml"/>
+              <UIName Value="Metal-045_metal_pattern_shader"/>
+              <VersionGUID Value="Metal-045_metal_pattern_shader"/>
+              <assettype Name="assettype" Value="texture"/>
+              <category Value=""/>
+              <common_Shared_Asset Name="Sharing" Value="0"/>
+              <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+              <common_Tint_color_colorspace Name="Color space" Value="2"/>
+              <common_Tint_toggle Name="Tint" Value="0"/>
+              <description Value="Unified Bitmap."/>
+              <keyword Value="maps"/>
+              <localname Value="Bitmap Texture"/>
+              <localtype Value="Texture"/>
+              <revision Value="1"/>
+              <swatch Value=""/>
+              <texture_LinkTextureTransforms Name="Link Transforms" Value="0"/>
+              <texture_MapChannel Name="Map Channel" Value="1"/>
+              <texture_MapChannel_ID_Advanced Name="Map Channel ID" Value="1"/>
+              <texture_MapChannel_UVWSource_Advanced Name="UVW Source" Value="0"/>
+              <texture_OffsetLock Name="Offset Lock" Value="0"/>
+              <texture_RealWorldOffsetX Name="Offset X" Value="0"/>
+              <texture_RealWorldOffsetY Name="Offset Y" Value="0"/>
+              <texture_RealWorldScaleX Name="Size X" Value="12"/>
+              <texture_RealWorldScaleY Name="Size Y" Value="12"/>
+              <texture_ScaleLock Name="Scale Lock" Value="1"/>
+              <texture_UOffset Name="U Offset" Value="0"/>
+              <texture_URepeat Name="U Repeat" Value="1"/>
+              <texture_UScale Name="U Scale" Value="1"/>
+              <texture_UVScale Name="UV Scale" Value="1"/>
+              <texture_VOffset Name="V Offset" Value="0"/>
+              <texture_VRepeat Name="V Repeat" Value="1"/>
+              <texture_VScale Name="V Scale" Value="1"/>
+              <texture_WAngle Name="Angle" Value="0"/>
+              <thumbnail Value="Maps/UnifiedBitmap/UnifiedBitmap.png"/>
+              <unifiedbitmap_Bitmap Name="Source" Value=""/>
+              <unifiedbitmap_Bitmap_urn Name="URN" Value=""/>
+              <unifiedbitmap_Blur Name="Blur" Value="0.01"/>
+              <unifiedbitmap_Blur_Offset Name="Blur Offset" Value="0"/>
+              <unifiedbitmap_Filtering Name="Filtering" Value="0"/>
+              <unifiedbitmap_Invert Name="Invert Image" Value="0"/>
+              <unifiedbitmap_RGBAmount Name="Brightness" Value="1"/>
+              <version Value="4"/>
+            </metal_pattern_shader>
+          </metal_pattern_shader>
+          <metal_perforations Name="Cutouts" Value="0"/>
+          <metal_perforations_center Name="Center Spacing" Value="0.6875"/>
+          <metal_perforations_shader Name="Image">
+            <metal_perforations_shader Identifier="Metal-045_metal_perforations_shader" LocalUIName="Metal-045_metal_perforations_shader">
+              <AdvancedUIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapAdvancedUI.xml"/>
+              <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+              <BaseSchema Value="UnifiedBitmapSchema"/>
+              <ExchangeGUID Name="ExchangeGUID" Value=""/>
+              <Hidden Value="0"/>
+              <ImplementationGeneric Value=""/>
+              <ImplementationMentalRay Value="Maps/UnifiedBitmap/MentalImage.xml"/>
+              <ImplementationOGS Value="Maps/UnifiedBitmap/OGS.xml"/>
+              <ImplementationPreview Value=""/>
+              <SchemaVersion Value="5"/>
+              <UIDefinition Value="Maps/UnifiedBitmap/UnifiedBitmapUI.xml"/>
+              <UIName Value="Metal-045_metal_perforations_shader"/>
+              <VersionGUID Value="Metal-045_metal_perforations_shader"/>
+              <assettype Name="assettype" Value="texture"/>
+              <category Value=""/>
+              <common_Shared_Asset Name="Sharing" Value="0"/>
+              <common_Tint_color Name="Tint Color" Value="0.3149999976 0.3149999976 0.3149999976 1"/>
+              <common_Tint_color_colorspace Name="Color space" Value="2"/>
+              <common_Tint_toggle Name="Tint" Value="0"/>
+              <description Value="Unified Bitmap."/>
+              <keyword Value="maps"/>
+              <localname Value="Bitmap Texture"/>
+              <localtype Value="Texture"/>
+              <revision Value="1"/>
+              <swatch Value=""/>
+              <texture_LinkTextureTransforms Name="Link Transforms" Value="0"/>
+              <texture_MapChannel Name="Map Channel" Value="1"/>
+              <texture_MapChannel_ID_Advanced Name="Map Channel ID" Value="1"/>
+              <texture_MapChannel_UVWSource_Advanced Name="UVW Source" Value="0"/>
+              <texture_OffsetLock Name="Offset Lock" Value="0"/>
+              <texture_RealWorldOffsetX Name="Offset X" Value="0"/>
+              <texture_RealWorldOffsetY Name="Offset Y" Value="0"/>
+              <texture_RealWorldScaleX Name="Size X" Value="12"/>
+              <texture_RealWorldScaleY Name="Size Y" Value="12"/>
+              <texture_ScaleLock Name="Scale Lock" Value="1"/>
+              <texture_UOffset Name="U Offset" Value="0"/>
+              <texture_URepeat Name="U Repeat" Value="1"/>
+              <texture_UScale Name="U Scale" Value="1"/>
+              <texture_UVScale Name="UV Scale" Value="1"/>
+              <texture_VOffset Name="V Offset" Value="0"/>
+              <texture_VRepeat Name="V Repeat" Value="1"/>
+              <texture_VScale Name="V Scale" Value="1"/>
+              <texture_WAngle Name="Angle" Value="0"/>
+              <thumbnail Value="Maps/UnifiedBitmap/UnifiedBitmap.png"/>
+              <unifiedbitmap_Bitmap Name="Source" Value=""/>
+              <unifiedbitmap_Bitmap_urn Name="URN" Value=""/>
+              <unifiedbitmap_Blur Name="Blur" Value="0.01"/>
+              <unifiedbitmap_Blur_Offset Name="Blur Offset" Value="0"/>
+              <unifiedbitmap_Filtering Name="Filtering" Value="0"/>
+              <unifiedbitmap_Invert Name="Invert Image" Value="0"/>
+              <unifiedbitmap_RGBAmount Name="Brightness" Value="1"/>
+              <version Value="4"/>
+            </metal_perforations_shader>
+          </metal_perforations_shader>
+          <metal_perforations_size Name="Size" Value="0.5"/>
+          <metal_perforations_space Name="Perforations Space" Value="0.2"/>
+          <metal_refl_depth Name="Reflection Max Trace Depth" Value="0"/>
+          <metal_roundcorners_allow_different_materials Name="Blend with Other Materials" Value="0"/>
+          <metal_roundcorners_on Name="Round Corners" Value="0"/>
+          <metal_roundcorners_radius Name="Source" Value="0.25"/>
+          <metal_type Name="Type" Value="6"/>
+          <mode Name="Mode" Value="4"/>
+          <reflection_glossy_samples Name="Reflection Glossy Samples" Value="32"/>
+          <revision Value="1"/>
+          <swatch Value="Swatch-Sphere2"/>
+          <thumbnail Value="Mats/Metal/Presets/t_Metal-045.png"/>
+          <version Value="4"/>
+        </physmat_aspects>
+        <physmat_aspects Identifier="PhysicalMetal_121" LocalUIName="Stainless Steel">
+          <AdvancedUIDefinition Value=""/>
+          <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+          <BaseSchema Value="StructuralMetalSchema"/>
+          <ExchangeGUID Name="ExchangeGUID" Value=""/>
+          <Hidden Value="0"/>
+          <SchemaVersion Value="7"/>
+          <UIDefinition Value="Structural/Metal/MetalStructuralUI.xml"/>
+          <UIName Value="PhysicalMetal_121"/>
+          <VersionGUID Value="PhysicalMetal_121"/>
+          <assettype Name="assettype" Value="Structural"/>
+          <category Value="Metal/Steel"/>
+          <common_Shared_Asset Name="Sharing" Value="0"/>
+          <description Value="Metal structural asset."/>
+          <keyword Value="structural"/>
+          <localname Value="Metal"/>
+          <localtype Value="Physical"/>
+          <revision Value="1"/>
+          <structural_Behavior Name="Behavior" Value="0"/>
+          <structural_Damping_coefficient Name="Damping Coefficient" Value="0"/>
+          <structural_Density Name="Density" Value="8000"/>
+          <structural_ExternalMaterialID Name="External Material ID" Value="2:MATERIAL:MI_InventorSustainability:46EF4DD7-2D17-4D2C-B5A0-BD890EBB0F27:37746F5C-8216-4078-954A-0573E8ED82E4:0"/>
+          <structural_Minimum_tensile_strength Name="Tensile Strength" Value="540000"/>
+          <structural_Minimum_yield_stress Name="Yield Strength" Value="250000"/>
+          <structural_Poisson_ratio Name="Poisson's Ratio" Value="0.3"/>
+          <structural_Poisson_ratio_12 Name="Poisson's Ratio 12" Value="0.3"/>
+          <structural_Poisson_ratio_23 Name="Poisson's Ratio 23" Value="0.3"/>
+          <structural_Poisson_ratio_X Name="Poisson's Ratio X" Value="0.3"/>
+          <structural_Poisson_ratio_Y Name="Poisson's Ratio Y" Value="0.3"/>
+          <structural_Poisson_ratio_Z Name="Poisson's Ratio Z" Value="0.3"/>
+          <structural_Shear_modulus Name="Shear Modulus" Value="8.6e+07"/>
+          <structural_Shear_modulus_12 Name="Shear Modulus 12" Value="8.6e+07"/>
+          <structural_Shear_modulus_X Name="Shear Modulus X" Value="8.6e+07"/>
+          <structural_Shear_modulus_Y Name="Shear Modulus Y" Value="8.6e+07"/>
+          <structural_Shear_modulus_Z Name="Shear Modulus Z" Value="8.6e+07"/>
+          <structural_Specific_heat Name="Specific Heat" Value="0.477"/>
+          <structural_Thermal_conductivity Name="Thermal Conductivity" Value="16.2"/>
+          <structural_Thermal_conductivity_X Name="Thermal Conductivity X" Value="16.2"/>
+          <structural_Thermal_conductivity_Y Name="Thermal Conductivity Y" Value="16.2"/>
+          <structural_Thermal_conductivity_Z Name="Thermal Conductivity Z" Value="16.2"/>
+          <structural_Thermal_expansion_coefficient Name="Thermal Expansion Coefficient" Value="10.4"/>
+          <structural_Thermal_expansion_coefficient_1 Name="Thermal Expansion Coefficient 1" Value="10.4"/>
+          <structural_Thermal_expansion_coefficient_2 Name="Thermal Expansion Coefficient 2" Value="10.4"/>
+          <structural_Thermal_expansion_coefficient_X Name="Thermal Expansion Coefficient X" Value="10.4"/>
+          <structural_Thermal_expansion_coefficient_Y Name="Thermal Expansion Coefficient Y" Value="10.4"/>
+          <structural_Thermal_expansion_coefficient_Z Name="Thermal Expansion Coefficient Z" Value="10.4"/>
+          <structural_Thermally_treated Name="Thermally Treated" Value="0"/>
+          <structural_Young_modulus Name="Young's Modulus" Value="1.93e+08"/>
+          <structural_Young_modulus_1 Name="Young's Modulus 1" Value="1.93e+08"/>
+          <structural_Young_modulus_2 Name="Young's Modulus 2" Value="1.93e+08"/>
+          <structural_Young_modulus_X Name="Young's Modulus X" Value="1.93e+08"/>
+          <structural_Young_modulus_Y Name="Young's Modulus Y" Value="1.93e+08"/>
+          <structural_Young_modulus_Z Name="Young's Modulus Z" Value="1.93e+08"/>
+          <structural_source Name="Source" Value="Autodesk"/>
+          <structural_sourceURL Name="Source URL" Value=""/>
+          <structural_subclass Name="Subclass" Value="Steel"/>
+          <thumbnail Value=""/>
+          <version Value="4"/>
+        </physmat_aspects>
+        <physmat_aspects Identifier="ThermalSolid-093-2" LocalUIName="Stainless Steel V2">
+          <AdvancedUIDefinition Value=""/>
+          <AssetLibID Name="AssetLibID" Value="AFEFC330-5E61-4E24-814F-AE810148B79D"/>
+          <BaseSchema Value="ThermalSolidSchema"/>
+          <ExchangeGUID Name="ExchangeGUID" Value=""/>
+          <Hidden Value="0"/>
+          <SchemaVersion Value="5"/>
+          <UIDefinition Value="Thermal/Solid/SolidThermalUI.xml"/>
+          <UIName Value="ThermalSolid-093-2"/>
+          <VersionGUID Value="ThermalSolid-093-2"/>
+          <assettype Name="assettype" Value="Thermal"/>
+          <category Value="Solid/Metal"/>
+          <common_Shared_Asset Name="Sharing" Value="0"/>
+          <description Value="Stainless Steel, polished"/>
+          <keyword Value="Polished"/>
+          <localname Value="Solid"/>
+          <localtype Value="Thermal"/>
+          <revision Value="1"/>
+          <thermal_Behavior Name="Behavior" Value="0"/>
+          <thermal_Density Name="Density" Value="8000"/>
+          <thermal_Electrical_resistivity Name="Electrical Resistivity" Value="6.897e-07"/>
+          <thermal_Emissivity Name="Emissivity" Value="0.15"/>
+          <thermal_Permeability Name="Permeability" Value="0"/>
+          <thermal_Porosity Name="Porosity" Value="0.001"/>
+          <thermal_Reflectivity Name="Reflectivity" Value="0"/>
+          <thermal_Specific_heat Name="Specific Heat" Value="0.477"/>
+          <thermal_Thermal_conductivity Name="Thermal Conductivity" Value="16.2"/>
+          <thermal_Thermal_conductivity_X Name="Thermal Conductivity X" Value="16.2"/>
+          <thermal_Thermal_conductivity_Y Name="Thermal Conductivity Y" Value="16.2"/>
+          <thermal_Thermal_conductivity_Z Name="Thermal Conductivity Z" Value="16.2"/>
+          <thermal_Transmits_light Name="Transmits Light" Value="0"/>
+          <thermal_source Name="Source" Value="Autodesk"/>
+          <thermal_sourceURL Name="Source URL" Value=""/>
+          <thermal_subclass Name="Subclass" Value="Metal"/>
+          <thumbnail Value=""/>
+          <version Value="4"/>
+        </physmat_aspects>
+      </physmat_aspects>
+      <physmat_class Name="Class" Value=""/>
+      <physmat_classification Name="physmat_classification" Value="Autodesk.Material Classifications.Metal.Ferrous.Stainless Steel"/>
+      <physmat_deleted_aspects Name="Physical Aspects"/>
+      <revision Value="1"/>
+      <thumbnail Value="Mats\Metal\Presets\t_Metal-045.png"/>
+      <version Value="4"/>
+      <SubStyle Collection="Colors" Language="1033" LibId="AFEFC330-5E61-4E24-814F-AE810148B79D" Type="ColorStyle">Semi-Polished</SubStyle>
+      <Name Description="Stainless Steel 18/8" Language="1033">Stainless Steel</Name>
+    </Style>
+  </Materials>
+
+  <SheetMetalUnfold Version="3">
+    <Style EditFlag="3" InternalName="1:Default_KFactor&#xA;" KFactor="0.440 ul" KFactorBackup="0.440 ul" SplineFactor="0.500 ul" Type="1">
+      <BendTable AngleTolerance="0.004" InputUnit="3" IsOuterAngle="0" RadiiTolerance="0.004" ThicknessTolerance="4e-05"/>
+      <Name Description="" Language="1033">Default_KFactor</Name>
+      <Name Description="" Language="1028">預設 K 係數(_K)</Name>
+      <Name Description="" Language="1029">Výchozí_KFaktor</Name>
+      <Name Description="" Language="1031">Standard_KFaktor</Name>
+      <Name Description="" Language="1036">Par défaut_FacteurX</Name>
+      <Name Description="" Language="1038">Alapértelmezett_KFaktor</Name>
+      <Name Description="" Language="1040">FattoreK_di_default</Name>
+      <Name Description="" Language="1041">Default_KFactor</Name>
+      <Name Description="" Language="1042">기본값_KFactor</Name>
+      <Name Description="" Language="1045">Domyślny_WspółczynnikK</Name>
+      <Name Description="" Language="1046">Padrão_Fator-K</Name>
+      <Name Description="" Language="1049">По умолчанию_Поправка</Name>
+      <Name Description="" Language="2052">默认 K 系数</Name>
+      <Name Description="" Language="3082">FactorK_Pordefecto</Name>
+    </Style>
+  </SheetMetalUnfold>
+
+  <SheetMetalRules Version="4">
+    <Style BendAngleRepType="1" BendRadius="2,75" BendReliefType="2" BendTransitionType="1" EditFlag="3" GapSize="#Thickness#" InternalName="1:Copy of AISI304 2mm Die16&#xA;" MinimumRemnant="#Thickness# * 2,0 ul" PunchRepStatus="1" ReliefDepth="#Thickness# * 0,5 ul" ReliefWidth="#Thickness#" Thickness="2" ThreeBendIntersectionSize="#BendRadius#" ThreeBendIntersectionType="4" TransitionRadius="#BendRadius#" TwoBendIntersectionSize="#Thickness# * 4 ul" TwoBendIntersectionType="4">
+      <SubStyle Collection="SheetMetalUnfold" Language="1033" Type="UnfoldStyle">Default_KFactor</SubStyle>
+      <SubStyle Collection="Materials" Language="1033" LibId="AFEFC330-5E61-4E24-814F-AE810148B79D" Type="MaterialStyle">Stainless Steel</SubStyle>
+      <Name Description="" Language="1033">AISI304 2mm Die16</Name>
+    </Style>
+  </SheetMetalRules>
+
+</Export>
